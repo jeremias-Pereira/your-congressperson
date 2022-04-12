@@ -1,5 +1,5 @@
 # your-congressperson
-Lista dos Menbros da Camara dos Deputados
+Lista dos Membros da Camara dos Deputados
 
 Essa lista foi extraida por meio da api da camara dos deputados <a href="https://dadosabertos.camara.leg.br/swagger/api.html">dados abertos</a>
 
