@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">YouCongressperson</string>
+    <string name="app_name">Seus Deputados</string>
+    <string name="contentDescriptionImage">foto do Parlamentar</string>
+    <string name="detail">Detalhes</string>
+    <string name="iconDetails">Exibir Detalhes</string>
+    <string name="gabinete">Gabinete</string>
+    <string name="socialMedia">Redes Sociais</string>
 </resources>
